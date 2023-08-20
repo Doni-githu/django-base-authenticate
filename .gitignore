@@ -1,0 +1,30 @@
+# Django project files
+*.pyc
+*.pyo
+__pycache__
+
+# Development and local settings
+*.env
+*.sqlite3
+*.db
+
+# Static files
+/staticfiles/
+
+# Media files
+/media/
+
+# Secret keys and sensitive information
+*.secret
+
+# IDE-specific files
+.vscode/
+.idea/
+
+# Logs
+*.log
+
+# Dependency directories
+venv/
+env/
+node_modules/
